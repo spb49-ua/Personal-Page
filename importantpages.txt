@@ -1,1 +1,3 @@
 P3: https://www.dlsi.ua.es//asignaturas/prog3/
+
+<code>&amp;mivariable=Para mayor informacion&lt; a href="https://www.dlsi.ua.es//asignaturas/prog3/"&gt; &lt; font color="#336699" &gt;&lt; u &gt;visite esta pagina &lt; /u&gt; &lt;/font&gt;&lt; /a&gt;</code>
